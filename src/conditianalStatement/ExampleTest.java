@@ -2,7 +2,7 @@ package conditianalStatement;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
-/** This program is for understanding of basic usage - if else 
+ /** This program is for understanding of basic usage - if else 
  * @author Krishnendu PC
  *
  */
