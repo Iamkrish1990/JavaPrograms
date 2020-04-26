@@ -11,8 +11,7 @@ public class DefaultExample {
 	public static void main(String[] args) {
 		
 		DefaultExample de = new DefaultExample();
-		
-
+	
 	}
 
 }
