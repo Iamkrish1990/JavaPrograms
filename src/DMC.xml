@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Application>
+	<Pages>
+		<Page>
+			<Name></Name>
+			<Description></Description>
+			<Questions>
+				<Question id="P1">
+					<Title>
+						What is your mobile?
+					</Title>
+					<Answers>
+						<Answer id="QA1">POCO</Answer>
+						<Answer id="QA2">Xiaomi</Answer>
+						<Answer id="QA3">Samsung</Answer>
+					</Answers>
+				</Question>
+			</Questions>
+		</Page>
+		<Page>
+			<Name></Name>
+			<Description></Description>
+			<Questions>
+				<Question id="P2">
+					<Title>
+						Time period you are using?
+					</Title>
+					<Answers>
+						<Answer id="P2A2">POCO</Answer>
+						<Answer id="P2A2">Xiaomi</Answer>
+						<Answer id="P2A3">Samsung</Answer>
+					</Answers>
+				</Question>
+			</Questions>
+
+		</Page>
+	</Pages>
+</Application>
